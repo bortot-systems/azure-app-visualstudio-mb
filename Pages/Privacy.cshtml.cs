@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
+﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace azure_app_visualstudio_mb.Pages
 {
@@ -14,6 +13,7 @@ namespace azure_app_visualstudio_mb.Pages
 
         public void OnGet()
         {
+            throw new Exception("Testing Insights");
         }
     }
 

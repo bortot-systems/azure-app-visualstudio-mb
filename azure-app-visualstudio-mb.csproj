@@ -5,6 +5,13 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>azure_app_visualstudio_mb</RootNamespace>
+    <ApplicationInsightsResourceId>/subscriptions/09c29be2-4838-4fd3-846f-65565ed8d27e/resourceGroups/az-group-rg/providers/microsoft.insights/components/azure-app-visualstudio-mb</ApplicationInsightsResourceId>
+    <UserSecretsId>cff6794c-3020-497d-8e2a-52bc6423d64f</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Identity" Version="1.13.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.22.0" />
+  </ItemGroup>
 
 </Project>
