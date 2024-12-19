@@ -13,7 +13,7 @@ namespace azure_app_visualstudio_mb.Pages
 
         public void OnGet()
         {
-            throw new Exception("Testing Insights");
+            //throw new Exception("Testing Insights");
         }
     }
 
