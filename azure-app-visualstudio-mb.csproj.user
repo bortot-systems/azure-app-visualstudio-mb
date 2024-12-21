@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\Administrator\Documents\DEV2024\azure-app-visualstudio-mb\.github\workflows\master_azure-app-visualstudio-mb.yml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Administrator\Documents\DEV2024\azure-app-visualstudio-mb\Properties\PublishProfiles\azure-app-visualstudio-mb - Web Deploy1.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
