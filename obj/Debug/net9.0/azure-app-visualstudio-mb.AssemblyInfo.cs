@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-visualstudio-mb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7db932d0efaeabdd7255f8b467efd404b23998cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b79d15b2ee8ebed6ba31fc8c71cbc40fc0f8a34")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-visualstudio-mb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-visualstudio-mb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
