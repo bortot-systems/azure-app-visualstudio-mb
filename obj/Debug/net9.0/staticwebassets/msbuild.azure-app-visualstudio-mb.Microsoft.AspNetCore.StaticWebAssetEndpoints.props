@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\azure-app-visualstudio-mb.pw328l4mes.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-t0O\u002Bhp0dTI7MNnfGs2iBE7u8ckPx0vQ5nB/Y00BGwXY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1143"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022t0O\u002Bhp0dTI7MNnfGs2iBE7u8ckPx0vQ5nB/Y00BGwXY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Dec 2024 12:29:57 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1143"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022t0O\u002Bhp0dTI7MNnfGs2iBE7u8ckPx0vQ5nB/Y00BGwXY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Dec 2024 13:29:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/azure-app-visualstudio-mb/azure-app-visualstudio-mb.pw328l4mes.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\azure-app-visualstudio-mb.pw328l4mes.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pw328l4mes"},{"Name":"integrity","Value":"sha256-t0O\u002Bhp0dTI7MNnfGs2iBE7u8ckPx0vQ5nB/Y00BGwXY="},{"Name":"label","Value":"_content/azure-app-visualstudio-mb/azure-app-visualstudio-mb.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1143"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022t0O\u002Bhp0dTI7MNnfGs2iBE7u8ckPx0vQ5nB/Y00BGwXY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Dec 2024 12:29:57 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1143"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022t0O\u002Bhp0dTI7MNnfGs2iBE7u8ckPx0vQ5nB/Y00BGwXY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Dec 2024 13:29:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/azure-app-visualstudio-mb/css/site.b9sayid5wm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
