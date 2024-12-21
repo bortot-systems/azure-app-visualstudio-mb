@@ -3,7 +3,7 @@ using azure_app_visualstudio_mb.Data;
 using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Add services to the container. 
 
 //DB
 var connectionString = builder.Configuration.GetConnectionString("AzureSqlConnection");
